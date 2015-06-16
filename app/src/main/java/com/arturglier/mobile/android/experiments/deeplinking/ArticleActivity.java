@@ -1,4 +1,4 @@
-package com.arturglier.mobile.android.experiments.appdetection;
+package com.arturglier.mobile.android.experiments.deeplinking;
 
 import android.app.Activity;
 import android.os.Bundle;
